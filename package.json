@@ -12,6 +12,7 @@
   "dependencies": {
     "cookieparser": "^0.1.0",
     "crypto": "^1.0.1",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
