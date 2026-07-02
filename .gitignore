@@ -1,0 +1,9 @@
+node_modules/
+certs/
+docs/
+*.pdf
+*.crt
+*.key
+*.csr
+.env
+.DS_Store

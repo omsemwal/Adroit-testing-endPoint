@@ -1,0 +1,21 @@
+{
+  "name": "metatestingendpoint",
+  "version": "1.0.0",
+  "description": "EndPoint",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookieparser": "^0.1.0",
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "nodemon": "^3.1.14",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1"
+  }
+}
